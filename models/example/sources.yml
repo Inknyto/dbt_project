@@ -1,0 +1,5 @@
+version: 2
+
+sources:
+  - name: dall_diamm_api
+    database: dall_diamm_api
